@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=33&pause=1000&color=F7D087&center=true&random=true&width=435&lines=Welcome!)](https://git.io/typing-svg) <br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=33&letterSpacing=center&pause=1000&color=F7D087&vCenter=true&random=true&width=435&lines=Welcome!)](https://git.io/typing-svg) <br/>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jektek)
 <h2 align="center"> Hello! I'm <a href="/">Jek</a> 👋 </h2> <br/>
 <h3 align="center">I'm JekTek, usually known simply as Jek. I'm a full-stack developer from Spain-Chile. ⭐</h3>
