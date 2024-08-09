@@ -2,9 +2,7 @@
   <a href="ko-fi.com/jektek">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg">
   </a>
-<p>
-  I'm JekTek, usually known simply as Jek. I'm a full-stack developer from Spain-Chile who tries to get the best of myself every day.
-</p>
+<h3 align="center">I'm JekTek, usually known simply as Jek. I'm a full-stack developer from Spain-Chile. ⭐</h3>
 <hr/>
 <div align="center">
 <h3>Languajes and Tools</h3>
