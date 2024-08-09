@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=36&pause=1000&color=BDF762&width=435&lines=Welcome)](https://git.io/typing-svg) <br/>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/reconlx)
 <h2 align="center"> Hello! I'm <a href="/">Jek</a> 👋 </h2> <br/>
 <h3 align="center">I'm JekTek, usually known simply as Jek. I'm a full-stack developer from Spain-Chile. ⭐</h3>
 <hr/>
