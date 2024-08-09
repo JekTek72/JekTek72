@@ -1,7 +1,4 @@
 <h2 align="center"> Hello! I'm <a href="/">Jek</a> 👋 </h2> <br/>
-  <a href="ko-fi.com/jektek">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg">
-  </a>
 <h3 align="center">I'm JekTek, usually known simply as Jek. I'm a full-stack developer from Spain-Chile. ⭐</h3>
 <hr/>
 <div align="center">
