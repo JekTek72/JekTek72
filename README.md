@@ -12,7 +12,7 @@
 <img alt="nodejs" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
-<hr/>
+<br/>
 <p align="center">
   <a href="http://www.github.com/JekTek72"><img src="https://github-readme-stats.vercel.app/api?username=JekTek72&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JekTek72's GitHub stats" /></a>
   <a href="http://www.github.com/JekTek72"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JekTek72&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
