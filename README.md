@@ -14,5 +14,5 @@
 </div>
 <hr/>
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JekTek72&layout=compact&width=500" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JekTek72&layout=compact" /></a>
 </p>
