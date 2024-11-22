@@ -13,5 +13,6 @@
 <br/>
 <hr/>
 <p align="center">
+  <h3>My Discord</h3>
   <img src="https://lanyard.cnrad.dev/api/803753624098439168?bg=00000&borderRadius=10px&idleMessage=Just%20existing&theme=dark&showDisplayName=true&hideDecoration=false&animatedDecoration=false">
 </p>
