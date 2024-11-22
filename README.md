@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=900&size=50&letterSpacing=initial&pause=1015&color=4E5BF7&vCenter=true&width=435&lines=Hello+There!)](https://git.io/typing-svg) <br/>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jektek)
 <h2 align="center">I'm <a href="/">Jek</a> 👋 </h2> <br/>
+<a href="https://discord.com/users/721746046543331449"  align="left">
+    <img src="https://lanyard.cnrad.dev/api/803753624098439168?bg=00000&borderRadius=10px&idleMessage=Just%20existing&theme=dark&showDisplayName=true&hideDecoration=false&animatedDecoration=false">
+</a>
 <h3 align="center">I'm JekTek, usually known as Jek. I'm a full-stack developer from Spain-Chile. ⭐</h3>
 <hr/>
 <div align="center">
