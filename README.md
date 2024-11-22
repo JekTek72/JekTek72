@@ -1,4 +1,3 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/jektek)
 <h2 align="center">I'm <a href="/">Jek</a> 👋 </h2> <br/>
 <h3 align="center">I'm JekTek, usually known as Jek. I'm a full-stack developer from Spain-Chile. ⭐</h3>
 <a href="https://discord.com/users/803753624098439168"  align="center">
