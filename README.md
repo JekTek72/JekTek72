@@ -1,8 +1,6 @@
 <h2 align="center">I'm <a href="/">Jek</a> 👋 </h2> <br/>
 <h3 align="center">I'm JekTek, usually known as Jek. I'm a full-stack developer from Spain-Chile. ⭐</h3>
-<a href="https://discord.com/users/803753624098439168"  align="center">
-    <img src="https://lanyard.cnrad.dev/api/803753624098439168?bg=00000&borderRadius=10px&idleMessage=Just%20existing&theme=dark&showDisplayName=true&hideDecoration=false&animatedDecoration=false">
-</a>
+<img src="https://lanyard.cnrad.dev/api/803753624098439168?bg=00000&borderRadius=10px&idleMessage=Just%20existing&theme=dark&showDisplayName=true&hideDecoration=false&animatedDecoration=false">
 <hr/>
 <div align="center">
 <h3>Languages and Tools</h3>
