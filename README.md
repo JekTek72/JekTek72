@@ -17,7 +17,7 @@ function aboutMe() {
   this.web = "https://jektek.org/";
 };
 
-aboutMe.prototype.toString = function () {
+aboutMe.prototype.toString = function() {
    return this.name;
 };
 
