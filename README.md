@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/JekTek72/count.svg)
+
 <div id="header" align="center">
   <h1>👋 Hey There. I'm JekTek</h1>
 </div>
