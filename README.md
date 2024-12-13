@@ -22,7 +22,6 @@ aboutMe.prototype.toString = function() {
 };
 
 const me = new aboutMe();
-
 console.log(me.toString());
 ```
 <div align="center">
