@@ -1,4 +1,4 @@
-[![Years Badge](https://badges.pufler.dev/years/JekTek72)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/JekTek72/JekTek72)](https://badges.pufler.dev)
 
 <div id="header" align="center">
   <h1>👋 Hey There. I'm JekTek</h1>
