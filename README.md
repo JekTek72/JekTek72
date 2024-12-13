@@ -12,13 +12,13 @@ function aboutMe() {
   this.name = "Juan Biosca";
   this.username = "JekTek";
   this.location = "Valencia, Spain";
-  this.nacionality = "Spanish-Chilean"
+  this.nacionality = "Spanish-Chilean";
   this.discord = "jektek";
   this.web = "https://jektek.org/";
 };
 
 aboutMe.prototype.toString = function() {
-   return this.name;
+  return this.name;
 };
 
 const me = new aboutMe();
