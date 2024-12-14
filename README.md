@@ -47,8 +47,11 @@ console.log(me.toString());
   <h3>Stats</h3>
 </div>
 
-<p>
-  <a href="/"  align="left">
-  <img width="auto" src="https://github-readme-stats.vercel.app/api?username=JekTek72&show_icons=true&theme=tokyonight"/>
+<p style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="/"">
+    <img width="auto" src="https://github-readme-stats.vercel.app/api?username=JekTek72&show_icons=true&theme=tokyonight"/>
+  </a>
+  <a href="/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JekTek72&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=pie"/>
   </a>
 </p>
