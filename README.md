@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/JekTek72/JekTek72)](https://badges.pufler.dev)
+![Visits](https://komarev.com/ghpvc/?username=JekTek72)
 
 <div id="header" align="center">
   <h1>👋 Hey There. I'm JekTek</h1>
