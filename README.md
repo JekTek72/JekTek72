@@ -4,7 +4,7 @@
   <h1>👋 Hey There. I'm JekTek</h1>
 </div>
 
-- 🔭 A Web Developer from Spain-Chile
+- 🔭 A Full-Stack Web Developer from Spain-Chile
 - 🧑‍💻 Discord.js Enthusiast & Next.js Developer
 - 🕹️ I like playing RPG, Open-World, Platformer & Action games
 - 🤔 Ask me about Next.js, React, Typescript & TailwindCSS
