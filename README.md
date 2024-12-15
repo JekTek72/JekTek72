@@ -1,5 +1,3 @@
-![Visits](https://komarev.com/ghpvc/?username=JekTek72)
-
 <div id="header" align="center">
   <h1>👋 Hey There. I'm JekTek</h1>
 </div>
