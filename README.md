@@ -6,21 +6,22 @@
 
 - 🔭 A Full-Stack Web Developer from Spain-Chile
 - 🧑‍💻 Discord.js Enthusiast & Next.js Developer
-- 🕹️ I like playing RPG, Open-World, Platformer & Action games
+- 🕹️ I like playing games like RDR, Undertale, Fortnite, GTA, etc...
 - 🤔 Ask me about Next.js, React, Typescript & TailwindCSS
 
 ```javascript
-function aboutMe() {
-  this.name = "Juan Biosca";
-  this.username = "JekTek";
-  this.location = "Valencia, Spain";
-  this.nacionality = "Spanish-Chilean";
-  this.discord = "jektek";
-  this.web = "https://jektek.org/";
-};
+class aboutMe {
+  constructor() {
+    this.name = "Juan Biosca";
+    this.username = "JekTek";
+    this.location = "Valencia, Spain";
+    this.discord = "jektek";
+    this.web = "https://jektek.org/";
+  };
 
-aboutMe.prototype.toString = function() {
-  return this.name;
+  toString() {
+    return this.name;
+  };
 };
 
 const me = new aboutMe();
