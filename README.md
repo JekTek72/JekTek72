@@ -18,7 +18,7 @@ class aboutMe {
   };
 
   toString() {
-    return this.name;
+    return this.web;
   };
 };
 
