@@ -27,52 +27,26 @@ console.log(me.toString());
 ```
 <div align="center">
   <h3>Skills</h3>
-</div>
-
-<a href="/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="70" height="70"/>
-</a>
-<a href="/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="70" height="70" />
-</a>
-<a href="/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" />
-</a>
-<a href="https://www.typescriptlang.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" />
-</a>
-<a href="https://www.python.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" />
-</a>
-<a href="https://react.dev/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" />
-</a>
-<a href="https://nextjs.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60" />
-</a>
-<a href="https://tailwindcss.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" />
-</a>
-<a href="https://www.mongodb.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60" height="60" />
-</a>
-<a href="https://www.mysql.com/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" height="60" />
-</a>
-<a href="https://discord.js.org/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" width="60" height="60" />
-</a>
-<br/>
-<br/>
-<div align="left">
-  <h3>Stats</h3>
 </div>
+<br/>
+<br/>
 
-<p style="display: flex; justify-content: space-between; align-items: center;">
-  <a href="/"">
-    <img width="auto" src="https://github-readme-stats.vercel.app/api?username=JekTek72&show_icons=true&theme=tokyonight"/>
-  </a>
+<div align="center">
+  <h3>Stats</h3>
+  <p>
   <a href="/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JekTek72&size_weight=0.5&count_weight=0.5&theme=tokyonight&layout=pie"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=JekTek72&show_icons=true&theme=radical"/>
   </a>
 </p>
+</div>
