@@ -1,3 +1,7 @@
+<div align="center">
+	<img src="Me.png" width='30%'>
+</div>
+
 <div id="header" align="center">
   <h1>👋 Hey There. I'm JekTek</h1>
 </div>
