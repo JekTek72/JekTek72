@@ -7,9 +7,8 @@
 </div>
 
 - 🔭 A Full-Stack Web Developer from Spain-Chile
-- 🧑‍💻 Discord.js Enthusiast & Next.js Developer
-- 🕹️ I like playing games like RDR, Undertale, Fortnite, GTA, CSGO etc...
-- 🤔 Ask me about Next.js, React, Typescript & TailwindCSS
+- 🧑‍💻 Akane - In Development
+- 😭 DON'T ask me about Next.js, React, Typescript & TailwindCSS
 
 ```javascript
 class aboutMe {
